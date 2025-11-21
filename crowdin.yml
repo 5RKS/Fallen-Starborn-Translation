@@ -1,0 +1,4 @@
+files:
+  - source: '*.csv'
+    translation: '*.csv'
+    scheme: 'identifier,source_or_translation'
